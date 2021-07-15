@@ -12,7 +12,6 @@ namespace TypiCodeProject
         public static RestClient client;
         public static RestRequest restRequest;
         public static string baseURL = "https://jsonplaceholder.typicode.com/";
-
         public static RestClient SetUrl(string endpoint)
         {
             var url = Path.Combine(baseURL, endpoint);
