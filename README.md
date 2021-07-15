@@ -2,6 +2,7 @@
 
 This contains API automation files for TypiCode Project
 
+TypiCodeProject contains feature files,step definitions and helperclass files
 
 Added scenarios for CRUD operations and Negative test
 
